@@ -1,0 +1,29 @@
+body {
+    background:lightgreen;
+}
+
+h1 {
+    border: 9px double #1C6EA4;
+    text-align: center;
+    color: black;
+}
+
+h2, h3 {
+    text-align: center;
+    color: black;
+}
+
+a {
+    color: blue;
+}
+
+ol {
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+}
+
+p.BOTW {
+    font-size: xx-large;
+    font-family: fantasy;
+}
