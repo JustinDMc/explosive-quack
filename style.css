@@ -12,10 +12,6 @@ body {
     text-transform: none;
 }
 
-div.criteria {
-    text-align: left;
-}
-
 h1 {
     font-size: 100px;
     text-align: center;
@@ -35,10 +31,19 @@ a {
     color: blue;
 }
 
-ol {
-    color: black;
+div.criteria {
     text-align: center;
-    font-size: xx-large;
+    font-size: x-large;
+    color: red;
+}
+
+div.criteria-opener {
+    color: black;
+}
+
+div.game-list {
+    text-align: center;
+    font-size: x-large;
 }
 
 h1.BOTW {
@@ -53,21 +58,3 @@ h1.BOTW {
     width: 50%;
 }
 
-#header-content {
-    background-color: {{primary_color}};
-    
-    #menu-bar {
-      display: flex;
-      justify-content: space-evenly;
-      max-width: 1024px;
-      margin: auto;
-  
-      a {
-        color: #ffffff;
-      }
-    
-      a:hover {
-        text-decoration: none;
-      }
-    }
-  }
