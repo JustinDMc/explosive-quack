@@ -41,6 +41,11 @@ footer {
     color: black;
 }
 
+.about-words {
+    font-size: x-large;
+    text-align: left;
+}
+
 div.criteria {
     text-align: center;
     font-size: x-large;
