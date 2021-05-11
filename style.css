@@ -43,7 +43,7 @@ footer {
 
 .about-words {
     font-size: x-large;
-    text-align: left;
+    text-align: center;
 }
 
 div.criteria {
@@ -66,12 +66,13 @@ div.game-list {
     font-size: x-large;
 }
 
-h1.BOTW {
+h1.BOTW, h1.skyrim {
     font-family: fantasy;
     text-align: center;
+    font-size: xx-large;
 }
 
-.BOTWimage {
+.BOTWimage, .skyrimimage {
     display:block;
     margin-left: auto;
     margin-right: auto;
