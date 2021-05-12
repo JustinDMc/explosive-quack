@@ -56,11 +56,6 @@ div.criteria-opener {
     color: black;
 }
 
-div.sociallinks {
-    text-align: center;
-    font-size: large;
-}
-
 div.game-list {
     text-align: center;
     font-size: x-large;
@@ -79,3 +74,12 @@ h1.BOTW, h1.skyrim {
     width: 50%;
 }
 
+#botw-criteria {
+    text-align: left;
+    font-size: xx-large;
+}
+
+div p {
+    font-size: x-large;
+    word-spacing: 6px;
+}
