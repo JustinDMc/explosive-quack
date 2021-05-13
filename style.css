@@ -61,20 +61,20 @@ div.game-list {
     font-size: x-large;
 }
 
-h1.BOTW, h1.skyrim, h1.maplestory {
+h1.BOTW, h1.skyrim, h1.maplestory, h1.minecraft {
     font-family: fantasy;
     text-align: center;
     font-size: xx-large;
 }
 
-.BOTWimage, .skyrimimage, .maplestoryimage {
+.BOTWimage, .skyrimimage, .maplestoryimage, .minecraftimage {
     display:block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
 
-#botw-criteria, #skyrim-criteria, #maplestory-criteria{
+#botw-criteria, #skyrim-criteria, #maplestory-criteria, #minecraft-criteria{
     text-align: left;
     font-size: xx-large;
 }
