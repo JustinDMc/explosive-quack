@@ -58,23 +58,23 @@ div.criteria-opener {
 
 div.game-list {
     text-align: center;
-    font-size: x-large;
+    font-size: xx-large;
 }
 
-h1.BOTW, h1.skyrim, h1.maplestory, h1.minecraft {
+h1.BOTW, h1.skyrim, h1.maplestory, h1.minecraft, h1.kingdom-hearts {
     font-family: fantasy;
     text-align: center;
     font-size: xx-large;
 }
 
-.BOTWimage, .skyrimimage, .maplestoryimage, .minecraftimage {
+.BOTWimage, .skyrimimage, .maplestoryimage, .minecraftimage, .kingdom-heartsimage {
     display:block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
 
-#botw-criteria, #skyrim-criteria, #maplestory-criteria, #minecraft-criteria{
+#botw-criteria, #skyrim-criteria, #maplestory-criteria, #minecraft-criteria, #kingdom-hearts-criteria{
     text-align: left;
     font-size: xx-large;
 }
